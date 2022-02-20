@@ -9,7 +9,7 @@
 ### O problema a ser solucionado
 
 Sempre foi muito desagradável ir ao mercado e depois perceber que um ou mais items da sua lista não se encontra lá, alem de tomar tempo, temos que nos deslocar novamente em busca do item. Da mesma forma que por aplicativos, ficar procurando item por item da receita pode se tornar uma tarefa tediosa, o ideal mesmo seria uma aplicação onde você pesquisa uma receita e com base nos ingredientes dela é feita uma busca nos mercados proximos dando prioridade para o mercado que contém todos os item da lista, sem precisar ficar buscando item por item e melhor de tudo, com um unico toque obter todos os ingredientes em um mesmo mercado perto de sua casa
-Video Demo: https://github.com/Guilhermejob/hackathon_Ifood
+Video Demo: https://youtu.be/L8k8eg_ob1E
 
 ### A Solução
 
